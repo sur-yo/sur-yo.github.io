@@ -23,5 +23,4 @@ layout: default
 
 ---
 
-## 📬 Contact Me
-✨ Instagram: @suryo
+<div class="contact-section"> <h2>📬 Let's Connect</h2> <p>Find me on Instagram:</p> <a class="instagram-button" href="https://instagram.com/suryo" target="_blank">@suryo</a> </div>
